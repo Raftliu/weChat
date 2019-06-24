@@ -5,3 +5,8 @@ this program based on @ 逆流的鱼yuiop [https://blog.csdn.net/hejjunlin/artic
 
 use wechat interface and obtain some information of user 
 make analysis of comment and sex
+
+first , you will get a QR code to log in wechat.
+second, some library file needed to request.
+last but not least, you provide a picture named peiqi.png in your wechat file .
+
